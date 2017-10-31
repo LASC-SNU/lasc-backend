@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# google credentials
+client_secret.json
+credentials.json
