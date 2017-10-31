@@ -104,3 +104,5 @@ ENV/
 # google credentials
 client_secret.json
 credentials.json
+
+tmp/*
